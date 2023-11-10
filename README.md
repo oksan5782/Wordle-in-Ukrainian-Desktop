@@ -2,7 +2,7 @@
 
 ### Description:
 
-WORDLE tkinter based game in Ukrainian. Desktop implementation of the web project. Can be played multiple times with no time limits.
+WORDLE tkinter based game in Ukrainian. Desktop implementation of [this web project](https://github.com/oksan5782/Wordle-in-Ukrainian-Web). Can be played multiple times with no time limits.
 
 
 ### Features
@@ -34,7 +34,3 @@ User can access game rules and statistics at any time.
 - [tkmacosx](https://pypi.org/project/tkmacosx/)
 - [pandas](https://pandas.pydata.org/)
 - [pytest](https://docs.pytest.org/en/7.2.x/)
-
-
-
-##### Possible issues
